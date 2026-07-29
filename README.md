@@ -15,6 +15,6 @@ This repository contains my daily assignments, coding exercises, and practice pr
 
 Every commit in this repository represents a step toward becoming a better Full Stack Developer. Feel free to explore my work, provide feedback, or suggest improvements.
 
-**"Consistency beats perfection. One commit at a time."** ✨
+**"Consistency beats perfection. One commit at a time."** 🪽.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
